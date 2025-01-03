@@ -1,7 +1,7 @@
 .header{
     min-height: 34vw;
     margin: 30px auto;
-    background: url('C:\Projects\Hackathon Project\FoodDel\Frontend\src\assets\header_img.png') no-repeat;
+    background: url('\Frontend\src\assets\header_img.png') no-repeat;
     background-size:cover;
     position: relative;
 }
